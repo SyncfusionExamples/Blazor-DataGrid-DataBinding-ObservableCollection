@@ -1,6 +1,6 @@
 # Blazor DataGrid – ObservableCollection Data Binding
 
-This sample showcases how to use an `ObservableCollection<T>` as the data source for the [Syncfusion Blazor DataGrid](https://blazor.syncfusion.com/documentation/datagrid/overview), enabling real-time UI updates as the collection changes.
+This sample showcases how to use an `ObservableCollection<T>` as the data source for [Blazor DataGrid](https://blazor.syncfusion.com/documentation/datagrid/overview), enabling real-time UI updates as the collection changes.
 
 ## Features
 
@@ -11,7 +11,7 @@ This sample showcases how to use an `ObservableCollection<T>` as the data source
 
 ## Prerequisites
 
-- [.NET SDK 7.0 ](https://dotnet.microsoft.com/download/dotnet/7.0) or later
+- [.NET SDK 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) or later
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
 - [Visual Studio Code](https://code.visualstudio.com/)
 
