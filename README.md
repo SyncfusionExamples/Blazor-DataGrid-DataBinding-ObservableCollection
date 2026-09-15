@@ -39,4 +39,4 @@ This sample demonstrates how to bind a Syncfusion Blazor DataGrid to an `Observa
 
 ## License
 
-This is a Syncfusion sample project provided to demonstrate product usage. Review the [Syncfusion license terms](https://www.syncfusion.com/sales/teamlicense) before using Syncfusion components in your own applications.
+This is a Syncfusion sample project provided to demonstrate product usage. Review the [Syncfusion license terms](https://www.syncfusion.com/sales/pricing?category=ui-components) before using Syncfusion components in your own applications.
