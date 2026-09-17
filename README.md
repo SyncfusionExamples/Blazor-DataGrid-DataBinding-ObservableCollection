@@ -13,9 +13,11 @@ This sample demonstrates how to bind a Syncfusion Blazor DataGrid to an `Observa
 
 ## Prerequisites
 
-* Visual Studio 2022
+* Visual Studio 2022  or Visual Studio Code
 
 ## How to Run the Project
+
+**Visual Studio 2022**
 
 1. Clone or download this repository.
 2. Open `BindWithObservableCollection.sln` in Visual Studio 2022.
@@ -24,6 +26,17 @@ This sample demonstrates how to bind a Syncfusion Blazor DataGrid to an `Observa
 5. Run the application.
 6. Navigate to the page that hosts the Syncfusion Blazor DataGrid sample.
 7. Perform record add or delete operations and observe how the grid automatically reflects changes made to the underlying observable collection.
+
+**Visual Studio Code**
+
+1. Open the repository folder in Visual Studio Code.
+2. Open the integrated terminal.
+3. Navigate to the project directory.
+
+```bash
+dotnet restore
+dotnet run
+```
 
 ## Project Structure
 
